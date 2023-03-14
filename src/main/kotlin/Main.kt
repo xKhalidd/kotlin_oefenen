@@ -23,7 +23,13 @@ fun main() {
     var aanwijzing =
     println(txt.toUpperCase())
     println(txt.toLowerCase())
-
-
-
 }
+/*
+fun myFunction(fname: String, age: Int) {
+    println(fname + " is " + age)
+}
+
+fun main() {
+    myFunction("Khalid", 19)
+}
+*/
