@@ -24,6 +24,7 @@ fun main() {
     println(txt.toUpperCase())
     println(txt.toLowerCase())
 }
+
 /*
 fun myFunction(fname: String, age: Int) {
     println(fname + " is " + age)
@@ -33,3 +34,8 @@ fun main() {
     myFunction("Khalid", 19)
 }
 */
+
+/*
+https://www.w3schools.com/KOTLIN/kotlin_examples.php
+*/
+
