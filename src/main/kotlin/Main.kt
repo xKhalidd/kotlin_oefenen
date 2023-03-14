@@ -5,7 +5,7 @@ fun main() {
 
     println(36 + 42)
 
-    val name = "Khalid Achahbar"
+    var name = "Khalid Achahbar"
     val birthyear = 2003
 
     println(name)
