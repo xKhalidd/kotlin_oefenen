@@ -24,7 +24,7 @@ fun main() {
     println(txt.toUpperCase())
     println(txt.toLowerCase())
 
-    myFunction("Khalid", 19)
+    myFunction("Kali", 19)
 
 }
 
